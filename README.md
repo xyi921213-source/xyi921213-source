@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 你好，我是王一
 
-<!--
-**xyi921213-source/xyi921213-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI 学习者 · 持续探索 · 乐于交流**　📍 江苏 · 常州
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 关于我
+
+- 🌱 目前正在学习 **AI（人工智能）**&#8203;，探索技术如何改变世界
+- 📍 坐标：**江苏 · 常州**
+- 🚀 相信动手实践是最好的学习方式，持续输出、持续成长
+- 💬 欢迎一起交流 AI、编程和一切有趣的技术话题
+
+## 🛠️ 技术栈 / 正在探索
+
+Python · AI · 机器学习 · Git · Markdown
+
+（按你实际掌握的技术修改这一行即可）
+
+## 🔭 我正在做
+
+- 🧠 学习 AI 相关知识与工具，动手做一些小项目
+- 📚 不断整理学习笔记，把学到的东西沉淀下来
+
+## 🚀 项目
+
+- 暂无公开项目，持续更新中…（以后在这里放项目名 + 一句话介绍 + 链接）
+
+## 📫 联系我
+
+- 📧 邮箱：xyi921213@gmail.com
+- 🐙 GitHub：@xyi921213-source
+
+---
+
+⭐ 如果觉得有意思，欢迎 Star 我的仓库！
